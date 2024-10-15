@@ -98,6 +98,8 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h1>IMPORTANT</h1>
+                    <p>updates for the list have been paused due to the breaking of the 3Dash+ servers and the wxpected shutdown of 3Dash+</p>
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
                     <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>

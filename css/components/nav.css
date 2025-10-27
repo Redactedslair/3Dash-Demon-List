@@ -1,7 +1,8 @@
 :root {
     --color-background: white;
     --color-on-background: black;
-    --color-primary: #f700ff;
+    /* --color-primary: #f700ff; */
+    --color-primary: #ff3c00;
     --color-on-primary: white;
 }
 

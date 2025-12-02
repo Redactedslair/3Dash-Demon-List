@@ -103,41 +103,10 @@ export default {
                     <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
                     <h4>DEMON LIST REQUIREMENTS</h4>
                     <p>#1: Level must be at least 30 seconds long</p>
-
-                    <p>#2: Decoration must be decent enough</p>
-
-                    <p>#3: Gameplay must be decently okay</p>
-
-                    <p>Example Level: <a href="https://youtu.be/PFZY1_Zuumw?si=TnRkjxyQG3JBVHn3">Chaotic Machine</a></p>                    
-                    <h3>Video Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks
-                    </p>
-                    <p>
-                        If you do have hacks installed with cheat indicator, it must be on
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Must have raw footage with clicks - the edited video doesn't require clicks
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies. LDM's by the creator of said level will be allowed
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
+                    <p>#2: Level must be physically possible.</p>
+                    <p>#3: Level must not surpass 25 clicks per second.</p>
                     <h3>Changelogs</h3>
+                    <p>12/02/25 - added Supernova at #8 and cyclones to #3, made slight improvements to website layout.
                     <p>9/15/24 - Shipping Added at #11</p>
                 </div>
             </div>

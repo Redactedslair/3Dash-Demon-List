@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
-                    <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <p>3Dash Ultra: <a href="https://www.zylex.co/3dash/download.php" target="_blank">Download</a></p>
                     <h4>CHALLENGE LIST REQUIREMENTS</h4>
                     <p>#1: Level must be possible</p>
 

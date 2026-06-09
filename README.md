@@ -1,5 +1,5 @@
 # The 3DashDemonList
+Official demon list repository for 3Dash Ultra and 3Dash 1.3 (once it releases)
 
-a list for 3Dash+ (and 3Dash 1.3 in the future)
 # List Mods and Maintainers
 - RedactedsLair

@@ -98,6 +98,8 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h1>IMPORTANT</h1>
+                    <p>This list is made for 3Dash Ultra. If you want to play the levels on this list you need to download and install 3Dash Ultra.</p>
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
                     <p>3Dash Ultra: <a href="https://www.zylex.co/3dash/download.php" target="_blank">Download</a></p>

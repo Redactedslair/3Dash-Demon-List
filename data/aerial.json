@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=svfB-bzB9os",
             "percent":100,
             "hz": 240 
+        },
+         {
+            "user": "[BR] ValGD",
+            "link": "https://youtu.be/zo9MbD-w9ns",
+            "percent":100,
+            "hz": 60 
         }
     ]
 }

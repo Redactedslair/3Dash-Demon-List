@@ -98,9 +98,11 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h1>IMPORTANT</p>
+                    <p>This list is made for 3Dash Ultra. If you want to play the levels on this list you need to download 3Dash Ultra from the link below.
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
-                    <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <p>3Dash Ultra: <a href="https://www.zylex.co/3dash/download.php" target="_blank">Download</a></p>
                     <h4>DEMON LIST REQUIREMENTS</h4>
                     <p>#1: Level must be at least 30 seconds long</p>
                     <p>#2: Level must be physically possible.</p>

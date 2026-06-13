@@ -40,7 +40,7 @@
     "hz": 240
 },
 {
-    "user": "qezu",
+    "user": "sorrow",
     "link": "https://www.youtube.com/watch?v=cfK6pA_wga4",
     "percent": 100,
     "hz": 60
@@ -140,6 +140,12 @@
     "link": "https://www.youtube.com/shorts/wKPSPVCMwXY",
     "percent": 100,
     "hz": 144
-}
-    ]
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/sInW91X-ZCA",
+    "percent": 100,
+    "hz": 60
+} 
+]
 }

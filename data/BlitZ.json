@@ -1,9 +1,9 @@
 {
     "id": "3Dash+ 6302",
     "name": "Blit-Z",
-    "author": "Zippiks",
+    "author": "zoomi",
     "creators": [],
-    "verifier": "Zippiks",
+    "verifier": "[USA] zoomi",
     "verification": "https://www.youtube.com/watch?v=gYuiJlZz_mA",
     "percentToQualify": 100,
     "password": "502",
@@ -63,7 +63,7 @@
     "hz": 360
 },
 {
-    "user": "[USA] Phantom",
+    "user": "[USA] Nugbit",
     "link": "https://www.youtube.com/watch?v=0ER2hp8ahLU",
     "percent": 100,
     "hz": 144
@@ -73,6 +73,12 @@
     "link": "https://www.youtube.com/watch?v=ipvFvmbGWVk",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/Qr6-P7kdd-M",
+    "percent": 100,
+    "hz": 165
 }
     ]
 }

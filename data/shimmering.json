@@ -3,7 +3,7 @@
     "name": "Shimmering Siege",
     "author": "Monstrosity",
     "creators": [],
-    "verifier": "[USA] Phantom",
+    "verifier": "[USA] Nugbit",
     "verification": "https://www.youtube.com/watch?v=dP2g6OByTQs",
     "percentToQualify": 100,
     "password": "525",
@@ -25,6 +25,12 @@
     "link": "https://youtu.be/-Ag3EfumHyU?si=4CCz8IUUmO1OmIgU",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[RUS] bitmaaa",
+    "link": "https://youtu.be/dex-ujaJ3Jg",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

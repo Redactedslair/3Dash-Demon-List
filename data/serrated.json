@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "525",
     "records": [
+        {
+    "user": "[USA] Nugbit",
+    "link": "https://www.youtube.com/watch?v=RCLGnK2fVvg",
+    "percent": 100,
+    "hz": 180
+}
     ]
 }

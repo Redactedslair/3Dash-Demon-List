@@ -124,7 +124,7 @@
     "hz": 360
 },
 {
-    "user": "[USA] Phantom",
+    "user": "[USA] Nugbit",
     "link": "https://www.youtube.com/watch?v=2uxJykZCyPU",
     "percent": 100,
     "hz": 144
@@ -146,6 +146,12 @@
     "link": "https://youtu.be/sInW91X-ZCA",
     "percent": 100,
     "hz": 60
-} 
+},
+{
+    "user": "Rigenix",
+    "link": "https://youtu.be/-9z06ItzN7Q",
+    "percent": 100,
+    "hz": 75
+}
 ]
 }

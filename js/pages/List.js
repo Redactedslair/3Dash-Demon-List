@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 76" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -98,8 +98,8 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h1>IMPORTANT</p>
-                    <p>This list is made for 3Dash Ultra. If you want to play the levels on this list you need to download 3Dash Ultra from the link below.
+                    <h1>IMPORTANT</h1>
+                    <p>All of the list levels are hosted on 3Dash ultra due to better editor features. When 3Dash 1.3 will be released all of the demon list levels will be on regular 3dash too.</p>
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
                     <p>3Dash Ultra: <a href="https://www.zylex.co/3dash/download.php" target="_blank">Download</a></p>

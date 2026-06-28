@@ -9,13 +9,13 @@
     "password": "640",
     "records": [
 {
-    "user": "Valts",
+    "user": "[BR] ValGD",
     "link": "https://youtu.be/M_2vYOHt71o",
     "percent": 100,
     "hz": 60
 },
 {
-    "user": "Zippiks",
+    "user": "[USA] zoomi",
     "link": "https://www.youtube.com/watch?v=4DmNoOCZcqs",
     "percent": 100,
     "hz": 60
@@ -44,13 +44,13 @@
     "hz": 60
 },
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://www.youtube.com/watch?v=ICmExBIhkjw",
     "percent": 100,
     "hz": 240
 },
 {
-    "user": "qezu",
+    "user": "sorrow",
     "link": "https://www.youtube.com/watch?v=VTBjSU7xQRk",
     "percent": 100,
     "hz": 60
@@ -68,7 +68,7 @@
     "hz": 240
 },
 {
-    "user": "[USA] Phantom",
+    "user": "[USA] Nugbit",
     "link": "https://www.youtube.com/watch?v=nNnxOLU1X1o",
     "percent": 100,
     "hz": 144
@@ -108,6 +108,12 @@
     "link": "https://youtu.be/P6sGllnpaVQ?si=EyBWp8h3hCNPvKSc",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/Q6dtIRMZLZ0",
+    "percent": 100,
+    "hz": 165
 }
     ]
 }

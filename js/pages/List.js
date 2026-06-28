@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 61" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -49,10 +49,6 @@ export default {
                         <li>
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
-                        </li>
-                        <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -99,10 +95,11 @@ export default {
                         </ol>
                     </template>
                     <h1>IMPORTANT</h1>
-                    <p>updates for the list have been paused due to the breaking of the 3Dash+ servers and the wxpected shutdown of 3Dash+</p>
+                    <p>This is a testing branch of the demon list. it is usually not up to date with the current demon list</p>
+                    <p>go to the actual demon list at <a href=https://3dashdl.pages.dev>https://3dashdl.pages.dev</a></p> 
                     <h4>3Dash Downloads</h4>
                     <p>3Dash: <a href="https://delugedrop.itch.io/3dash" target="_blank">Download</a></p>
-                    <p>3Dash+: <a href="https://3dash.mg95.dev" target="_blank">Download</a></p>
+                    <p>3Dash Ultra: <a href="https://www.zylex.co/3dash/download.php" target="_blank">Download</a></p>
                     <h4>DEMON LIST REQUIREMENTS</h4>
                     <p>#1: Level must be at least 30 seconds long</p>
 

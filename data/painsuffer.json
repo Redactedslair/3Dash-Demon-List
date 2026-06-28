@@ -9,7 +9,7 @@
     "password": "354",
     "records": [
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://www.youtube.com/watch?v=grMiEmJldp4",
     "percent": 100,
     "hz": 240
@@ -22,7 +22,7 @@
 },
 
 {
-    "user":"[USA] Phantom",
+    "user":"[USA] Nugbit",
     "link": "https://youtu.be/-X6AgcMReEs",
     "percent": 100,
     "hz": 144
@@ -44,6 +44,12 @@
     "link": "https://youtu.be/iHhnRzQ63Qo?si=jG9T6WAnZVukLGUW",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[PL] MadeInPoland",
+    "link": "https://youtu.be/g-qB91lmcJw",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

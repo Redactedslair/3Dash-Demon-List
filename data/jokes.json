@@ -9,7 +9,7 @@
     "password": "571",
     "records": [
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://youtu.be/zpnyQoRgLJ8",
     "percent": 100,
     "hz": 240
@@ -25,6 +25,12 @@
     "link": "https://www.youtube.com/watch?v=5kmae4xbPFw",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[BR] ValGD",
+    "link": "https://www.youtube.com/watch?v=B6z7NpDmKu8",
+    "percent": 100,
+    "hz": 60
 }
     ]
 }

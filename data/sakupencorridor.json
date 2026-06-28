@@ -1,15 +1,15 @@
 {
-    "id": "3Dash+ 13812",
+    "id": "13812",
     "name": "Sakupen Corridor",
-    "author": "Phantom",
+    "author": "Nugbit",
     "creators": [],
-    "verifier": "[USA] Phantom",
+    "verifier": "[USA] Nugbit",
     "verification": "https://www.youtube.com/watch?v=an5lgzzX-rI",
     "percentToQualify": 100,
     "password": "594",
     "records": [
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://youtu.be/uIAHu2VvLgk",
     "percent": 100,
     "hz": 240
@@ -31,6 +31,12 @@
     "link": "https://youtu.be/v7DfepS7qlk",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[CAN] egg",
+    "link": "https://www.youtube.com/watch?v=HKErFfuAoHA",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

@@ -1,21 +1,21 @@
 {
     "id": "3Dash+ 3841",
     "name": "Blip",
-    "author": "MadeInPoland",
+    "author": "[PL] MadeInPoland",
     "creators": [],
-    "verifier": "MadeInPoland",
+    "verifier": "[PL] MadeInPoland",
     "verification": "https://www.youtube.com/watch?v=v7rWaUBBZJk",
     "percentToQualify": 100,
     "password": "385",
     "records": [
 {
-    "user": "Valts",
+    "user": "[BR] ValGD",
     "link": "",
     "percent": 100,
     "hz": 240
 },
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://youtu.be/t0O_NqNvtuY",
     "percent": 100,
     "hz": 240
@@ -31,6 +31,12 @@
     "link": "https://youtu.be/eFILVeX-SHk",
     "percent": 100,
     "hz": 240
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/m5b4qZM4568",
+    "percent": 100,
+    "hz": 165
 }     
     ]
 }

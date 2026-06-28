@@ -21,7 +21,7 @@
     "hz": 60
 },
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://www.youtube.com/watch?v=acF5kAawbwo",
     "percent": 100,
     "hz": 240
@@ -33,7 +33,7 @@
     "hz": 60
 },
 {
-    "user": "MadeInPoland",
+    "user": "[PL] MadeInPoland",
     "link": "https://www.youtube.com/watch?v=6hFWjmaebdU",
     "percent": 100,
     "hz": 240
@@ -76,10 +76,16 @@
 },
 
 {
-    "user":"[USA] Phantom",
+    "user":"[USA] Nugbit",
     "link": "https://www.youtube.com/watch?v=I87Y_AeQxZY",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/mFfDeDsJZ4E",
+    "percent": 100,
+    "hz": 165
 }
     ]
 }

@@ -9,7 +9,7 @@
     "password": "461",
     "records": [
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://www.youtube.com/watch?v=WQIOiFGC12I",
     "percent": 100,
     "hz":240
@@ -39,10 +39,16 @@
     "hz": 360
 },
 {
-    "user": "[USA] Phantom",
+    "user": "[USA] Nugbit",
     "link": "https://youtu.be/_6-CIOWz7Ik",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "zemljotres",
+    "link": "https://youtu.be/fl4SMDwTPPM",
+    "percent": 100,
+    "hz": 120
 } 
     ]
 }

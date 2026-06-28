@@ -39,7 +39,7 @@
     "hz": 144
 },
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://youtu.be/VesauV-m-OY",
     "percent": 100,
     "hz": 240
@@ -69,7 +69,7 @@
     "hz": 360
 },
 {
-    "user": "[USA] Phantom",
+    "user": "[USA] Nugbit",
     "link": "https://www.youtube.com/watch?v=RE8cTVgGTtk",
     "percent": 100,
     "hz": 144
@@ -85,6 +85,12 @@
     "link": "https://youtu.be/k62Od6E8oMA",
     "percent": 100,
     "hz": 144
+},
+{
+    "user": "[UA] CWRSOR",
+    "link": "https://youtu.be/SgGm_oYxNY4",
+    "percent": 100,
+    "hz": 165
 }
     ]
 }

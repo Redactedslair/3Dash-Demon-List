@@ -9,7 +9,7 @@
     "password": "700",
     "records": [
 {
-    "user": "{kys} FCSAlex7",
+    "user": "ꍏ꒒ꍟꊼ",
     "link": "https://youtu.be/w3QRTNO767k",
     "percent": 100,
     "hz": 240
@@ -23,6 +23,12 @@
 {
     "user": "[HUN] CrazEyy",
     "link": "https://youtu.be/qfR_hG2qYw0",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "[CAN] egg",
+    "link": "https://www.youtube.com/watch?v=DJeV5U7OybU",
     "percent": 100,
     "hz": 240
 } 

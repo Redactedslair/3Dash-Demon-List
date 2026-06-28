@@ -10,7 +10,7 @@
     "records": [
 
 {
-    "user": "Zippiks",
+    "user": "[USA] zoomi",
     "link": "https://www.youtube.com/watch?v=1YyVHKEGETk",
     "percent":100,
     "hz": 60
@@ -20,6 +20,12 @@
     "link": "https://youtu.be/X0YDClBmFLE",
     "percent": 100,
     "hz": 240
-}    
+},
+{
+    "user": "ꍏ꒒ꍟꊼ",
+    "link": "https://youtu.be/tmqCUHuO38E",
+    "percent": 100,
+    "hz":240
+}
     ]
 }

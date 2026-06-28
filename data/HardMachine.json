@@ -9,10 +9,16 @@
     "password": "915",
     "records": [
 {
-    "user": "Valts",
+    "user": "[BR] ValGD",
     "link": "https://www.youtube.com/watch?v=w6lEBJFfs3E",
     "percent": 100,
     "hz": 360
+},
+{
+    "user": "ꍏ꒒ꍟꊼ",
+    "link": "https://youtu.be/wHj1-SbGo5Q",
+    "percent": 100,
+    "hz": 240
 }
     ]
 }

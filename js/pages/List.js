@@ -106,6 +106,8 @@ export default {
 
                     <p>#3: Gameplay must be decently okay</p>
 
+                    <p>#4: Levels must be rated on 3Dash Ultra (applies to new demon list levels only)</p> 
+
                     <p>Example Level: <a href="https://youtu.be/PFZY1_Zuumw?si=TnRkjxyQG3JBVHn3">Chaotic Machine</a></p>                    
                     <h3>Video Submission Requirements</h3>
                     <p>

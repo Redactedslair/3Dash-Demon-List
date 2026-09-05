@@ -9,6 +9,11 @@
     "percentToQualify": 40,
     "password": "179",
     "records": [
-       
+      {
+    "user": "[US] ChaseLux",
+    "link": "https://youtu.be/ldqrAwbofmY",
+    "percent": 100,
+    "hz": 144
+        }
     ]
 }

@@ -7,6 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=64vY0PgM6EQ",
     "percentToQualify": 100,
     "records": [
-
+    {
+    "user": "Rigenix",
+    "link": "https://youtu.be/0YWat0_wYrc",
+    "percent": 100,
+    "hz": 75
+}
     ]
 }
